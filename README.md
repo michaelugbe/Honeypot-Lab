@@ -20,31 +20,39 @@ Developed an advanced honeypot lab on Azure using PowerShell, creating a virtual
 
 <p align="center">
 Create the Virtual Machine on Azure: <br/>
-<img src="https://i.imgur.com/a/8UxqeMC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xxSU6cx.png" height="80%" width="80%" alt="Create Virtual Machine"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Allow all Traffic from Internet into VIrtual Machine:  <br/>
+<img src="https://i.imgur.com/aZOLzaf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created Log Analytics Workspace: <br/>
+<img src="https://i.imgur.com/GZfU0mb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connect Log Analytics to Virtual Machine:  <br/>
+<img src="https://i.imgur.com/L2PQU4g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log into Virtual Machine with Remote Desktop:  <br/>
+<img src="https://i.imgur.com/FMe1d3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run Powershell Script after getting Geolocation API Key:  <br/>
+<img src="https://i.imgur.com/1wTQlxf.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Custom Log:  <br/>
+<img src="https://i.imgur.com/BkJzSjW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Extract Fields from Raw Custom Data:  <br/>
+<img src="https://i.imgur.com/Pv2IY86.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Setup Map in Sentinel:  <br/>
+<img src="https://i.imgur.com/Hnwplsu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
