@@ -20,7 +20,7 @@ Developed an advanced honeypot lab on Azure using PowerShell, creating a virtual
 
 <p align="center">
 Create the Virtual Machine on Azure: <br/>
-<img src="https://imgur.com/a/8UxqeMC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a/8UxqeMC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
